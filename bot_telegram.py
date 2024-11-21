@@ -4,7 +4,7 @@ from telegram import Update
 from telegram.ext import Application, MessageHandler, filters, ContextTypes
 
 # Substitua pelo seu token
-TOKEN = '7847334522:AAEOVibI03bEkfKG3vrDTfPqBaNYfLKl0F0'
+TOKEN = ''
 
 # Caminho do arquivo JSON onde os problemas serão armazenados
 ARQUIVO_PROBLEMAS = 'problemas.json'
